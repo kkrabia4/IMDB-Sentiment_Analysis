@@ -5,12 +5,13 @@ This repository contains an NLP project focused on sentiment analysis of movie r
 # Setting up Collab File
 you must have a google account to open the collab link 
 must have a kaggle account to access the dataset like this 
-import kagglehub
+1. import kagglehub
  Download latest version
 path = kagglehub.dataset_download("lakshmi25npathi/imdb-dataset-of-50k-movie-reviews")
 print("Path to dataset files:", path)
+
 Then copy the path in a code like this 
-df = pd.read_csv("/root/.cache/kagglehub/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/versions/1/IMDB Dataset.csv")
+2. df = pd.read_csv("/root/.cache/kagglehub/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/versions/1/IMDB Dataset.csv")
 
 # Features
 
