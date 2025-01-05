@@ -4,9 +4,9 @@ This repository contains an NLP project focused on sentiment analysis of movie r
 
 # Features
 
-## Data Preprocessing : Comprehensive pipeline for cleaning and processing raw text data, including tokenization, lemmatization, and stopword removal.
+ **Data Preprocessing :** Comprehensive pipeline for cleaning and processing raw text data, including tokenization, lemmatization, and stopword removal.
 
-## Modeling: Implementation of various machine learning models, including:
+** Modeling:** Implementation of various machine learning models, including:
 
 1. Logistic Regression
 2. Naive Bayes
@@ -14,11 +14,11 @@ This repository contains an NLP project focused on sentiment analysis of movie r
 4. RNN
 5. CNN
 
-## Evaluation Metrics: Performance measured using accuracy, precision, recall, and F1-score to identify the best-performing model.
+ **Evaluation Metrics:** Performance measured using accuracy, precision, recall, and F1-score to identify the best-performing model.
 
-## Topic Modeling: Employed Latent Dirichlet Allocation (LDA) for topic extraction to identify common themes in reviews.
+**Topic Modeling:** Employed Latent Dirichlet Allocation (LDA) for topic extraction to identify common themes in reviews.
 
-## Visualizations: Created visualizations to display:
+ **Visualizations:** Created visualizations to display:
 
 1. Sentiment distribution.
 2. Demographic insights.
