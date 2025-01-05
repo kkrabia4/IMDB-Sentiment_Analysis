@@ -40,5 +40,5 @@ https://colab.research.google.com/drive/15jOmWlCHDs1PG91Nu51QYRnCSDnmMjS6?usp=sh
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the Apache2.0
 
