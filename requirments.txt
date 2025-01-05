@@ -1,0 +1,10 @@
+pip install -r requirements.txt
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
+transformers
+wordcloud
